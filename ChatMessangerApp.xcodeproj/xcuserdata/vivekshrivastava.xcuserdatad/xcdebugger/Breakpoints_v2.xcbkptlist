@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9E22BB22-6700-411F-8C70-57E84B4CDEA5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBC4837A-3EE0-422D-9E2C-F0FC7D546FF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatMessangerApp/Controllers/ConersationsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "isUserLogin()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBC4837A-3EE0-422D-9E2C-F0FC7D546FF1 - 29f4ac899f01971e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessangerApp.ConersationsViewController.presentLoginPage() -&gt; ()"
+                  moduleName = "ChatMessangerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vivekshrivastava/Documents/Vivek/Projects/ChatMessangerApp/ChatMessangerApp/Controllers/ConersationsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "EBC4837A-3EE0-422D-9E2C-F0FC7D546FF1 - a7a6e06372468838"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessangerApp.ConersationsViewController.isUserLogin() -&gt; Swift.Bool"
+                  moduleName = "ChatMessangerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vivekshrivastava/Documents/Vivek/Projects/ChatMessangerApp/ChatMessangerApp/Controllers/ConersationsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6E37C76F-A17C-4B25-91E3-970F9EEECAA5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatMessangerApp/Controllers/ConersationsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "presentLoginPage()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6E37C76F-A17C-4B25-91E3-970F9EEECAA5 - 29f4ac899f01979a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessangerApp.ConersationsViewController.presentLoginPage() -&gt; ()"
+                  moduleName = "ChatMessangerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vivekshrivastava/Documents/Vivek/Projects/ChatMessangerApp/ChatMessangerApp/Controllers/ConersationsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "6E37C76F-A17C-4B25-91E3-970F9EEECAA5 - 29f4ac899f01979a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatMessangerApp.ConersationsViewController.presentLoginPage() -&gt; ()"
+                  moduleName = "ChatMessangerApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/vivekshrivastava/Documents/Vivek/Projects/ChatMessangerApp/ChatMessangerApp/Controllers/ConersationsViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7024E9E9-0C82-48E4-8505-37591786D51D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatMessangerApp/Controllers/ConersationsViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "presentLoginPage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5D6B6E50-99CE-44BB-8540-9DE76DED132D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatMessangerApp/Controllers/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "122"
+            endingLineNumber = "122"
+            landmarkName = "didTapLoginButton()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88745BEE-A09B-4D7E-811E-18153A76AAAC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatMessangerApp/Controllers/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "86"
+            endingLineNumber = "86"
+            landmarkName = "setupUI()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
